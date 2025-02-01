@@ -73,15 +73,6 @@ Commands
 
 Send an Image/File: Analyze the image or file using Gemini AI.
 
-File Structure
-Copy
-.
-├── bot.py                # Main bot script
-├── config.py             # Configuration file
-├── requirements.txt      # List of dependencies
-├── README.md             # This file
-└── .gitignore            # Files to ignore in Git
-Dependencies
 pyrogram: For interacting with the Telegram API.
 
 google-generativeai: For using Google's Gemini AI.
